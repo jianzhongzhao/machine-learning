@@ -1,3 +1,6 @@
+# Description: This program classifies the dogs
+#              as different species. Avoid useless features
+
 import numpy as np 
 import matplotlib.pyplot as plt 
 

@@ -27,9 +27,6 @@ validation_dogs_dir = os.path.join(validation_dir, 'dogs')  # directory with our
 
 
 
-
-
-
 num_cats_tr = len(os.listdir(train_cats_dir))
 num_dogs_tr = len(os.listdir(train_dogs_dir))
 
